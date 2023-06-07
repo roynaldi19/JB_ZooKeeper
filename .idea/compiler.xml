@@ -8,6 +8,10 @@
       <module name="Zookeeper_(Kotlin).Topics-Boolean_and_logical_operations-Match_operations_and_definitions.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Boolean_and_logical_operations-Program_a_Boolean_function.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Boolean_and_logical_operations-Theory.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Next_even_number.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Underscore.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Check_the_input.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Fix_the_input.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Read_a_Double.main" target="11" />
