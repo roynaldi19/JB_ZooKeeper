@@ -1,4 +1,5 @@
 type: code
+custom_name: Are the numbers different?
 files:
 - name: src/Main.kt
   visible: true
@@ -7,10 +8,7 @@ files:
         // put your code here
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/4491#comment
-status: Solved
-feedback:
-  message: <html>Correct solution</html>
-  time: "Mon, 12 Jun 2023 02:07:02 UTC"
+feedback_link: https://hyperskill.org/learn/step/4535#comment
+status: Unchecked
 record: -1
 submission_language: kotlin

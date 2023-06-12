@@ -1,3 +1,4 @@
 fun main() {
-    // put your code here
+    val x = readln().toInt()
+    println(((x / 2) + 1) * 2)
 }

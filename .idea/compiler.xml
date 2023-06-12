@@ -9,14 +9,22 @@
       <module name="Zookeeper_(Kotlin).Topics-Boolean_and_logical_operations-Program_a_Boolean_function.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Boolean_and_logical_operations-Theory.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Next_even_number.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Reversing_a_number.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Time_difference.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Time_format.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Underscore.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Unsigned_integers.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Check_the_input.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Fix_the_input.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Read_a_Double.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Reading_data.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Theory.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Are_the_numbers_different.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Existing_operators.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Who_is_less_than_10.main" target="11" />
       <module name="Zookeeper_(Kotlin).util.main" target="11" />
       <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-classes-kotlin.main" target="11" />
       <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-reports-tests.main" target="11" />
