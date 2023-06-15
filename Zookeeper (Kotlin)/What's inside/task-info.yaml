@@ -284,5 +284,126 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/14135#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |-
+    Error in test #1
+
+    The program ZookeeperKt has unexpectedly terminated.
+    It finished execution too early, should continue running.
+
+    Please find below the output of your program during this failed test.
+
+    ---
+
+    Switching on the camera in the camel habitat...
+     ___.-&#39;&#39;&#39;&#39;-.
+    /___  @    |
+    &#39;,,,,.     |         _.&#39;&#39;&#39;&#39;&#39;&#39;&#39;._
+         &#39;     |        /           \
+         |     \    _.-&#39;             \
+         |      &#39;.-&#39;                  &#39;-.
+         |                               &#39;,
+         |                                &#39;&#39;,
+          &#39;,,-,                           &#39;:;
+               &#39;,,| ;,,                 ,&#39; ;;
+                  ! ; !&#39;&#39;,,,&#39;,&#39;,,,,&#39;!  ;   ;:
+                 : ;  ! !       ! ! ;  ;   :;
+                 ; ;   ! !      ! !  ; ;   ;,
+                ; ;    ! !     ! !   ; ;
+                ; ;    ! !    ! !     ; ;
+               ;,,      !,!   !,!     ;,;
+               /_I      L_I   L_I     /_I
+    Look at that! Our little camel is sunbathing!
+    Switching on the camera in the lion habitat...
+                                                   ,w.
+                                                 ,YWMMw  ,M  ,
+                            _.---.._   __..---._.&#39;MMMMMw,wMWmW,
+                       _.-&quot;&quot;        &#39;&#39;&#39;           YP&quot;WMMMMMMMMMb,
+                    .-&#39; __.&#39;                   .&#39;     MMMMW^WMMMM;
+        _,        .&#39;.-&#39;&quot;; `,       /`     .--&quot;&quot;      :MMM[==MWMW^;
+     ,mM^&quot;     ,-&#39;.&#39;   /   ;      ;      /   ,       MMMMb_wMW&quot;  @\
+    ,MM:.    .&#39;.-&#39;   .&#39;     ;     `\    ;     `,     MMMMMMMW `&quot;=./`-,
+    WMMm__,-&#39;.&#39;     /      _.\      F&#39;&#39;&#39;-+,,   ;_,_.dMMMMMMMM[,_ / `=_}
+    &quot;^MP__.-&#39;    ,-&#39; _.--&quot;&quot;   `-,   ;       \  ; ;MMMMMMMMMMW^``; __|
+               /   .&#39;            ; ;         )  )`{  \ `&quot;^W^`,   \  :
+              /  .&#39;             /  (       .&#39;  /     Ww._     `.  `&quot;
+             /  Y,              `,  `-,=,_{   ;      MMMP`&quot;&quot;-,  `-._.-,
+            (--, )                `,_ / `) \/&quot;&quot;)      ^&quot;      `-, -;&quot;\:
+    The lion is roaring!
+    Switching on the camera in the deer habitat...
+       /|       |\
+    `__\\       //__&#39;
+       ||      ||
+     \__`\     |&#39;__/
+       `_\\   //_&#39;
+       _.,:---;,._
+       \_:     :_/
+         |@. .@|
+         |     |
+         ,\.-./ \
+         ;;`-&#39;   `---__________-----.-.
+         ;;;                         \_\
+         &#39;;;;                         |
+          ;    |                      ;
+           \   \     \        |      /
+            \_, \    /        \     |\
+              |&#39;;|  |,,,,,,,,/ \    \ \_
+              |  |  |           \   /   |
+              \  \  |           |  / \  |
+               | || |           | |   | |
+               | || |           | |   | |
+               | || |           | |   | |
+               |_||_|           |_|   |_|
+              /_//_/           /_/   /_/
+    Our &#39;Bambi&#39; looks hungry. Let&#39;s go to feed it!
+    Switching on the camera in the goose habitat...
+
+                                        _
+                                    ,-&quot;&quot; &quot;&quot;.
+                                  ,&#39;  ____  `.
+                                ,&#39;  ,&#39;    `.  `._
+       (`.         _..--.._   ,&#39;  ,&#39;        \    \
+      (`-.\    .-&quot;&quot;        &quot;&quot;&#39;   /          (  d _b
+     (`._  `-&quot;&quot; ,._             (            `-(   \
+     &lt;_  `     (  &lt;`&lt;            \              `-._\
+      &lt;`-       (__&lt; &lt;           :
+       (__        (_&lt;_&lt;          ;
+        `------------------------------------------
+    The goose is staring intently at you... Maybe it&#39;s time to change the channel?
+    Switching on the camera in the bat habitat...
+    _________________               _________________
+     ~-.              \  |\___/|  /              .-~
+         ~-.           \ / o o \ /           .-~
+            &gt;           \\  W  //           &lt;
+           /             /~---~\             \
+          /_            |       |            _\
+             ~-.        |       |        .-~
+                ;        \     /        i
+               /___      /\   /\      ___\
+                    ~-. /  \_/  \ .-~
+                       V         V
+    This bat looks like it&#39;s doing fine.
+    Switching on the camera in the rabbit habitat...
+             ,
+            /|      __
+           / |   ,-~ /
+          Y :|  //  /
+          | jj /( .^
+          &gt;-&quot;~&quot;-v&quot;
+         /       Y
+        jo  o    |
+       ( ~T~     j
+        &gt;._-&#39; _./
+       /   &quot;~&quot;  |
+      Y     _,  |
+     /| ;-&quot;~ _  l
+    / l/ ,-&quot;~    \
+    \//\/      .- \
+     Y        /    Y
+     l       I     !
+     ]\      _\    /&quot;\
+    (&quot; ~----( ~   Y.  )
+    It looks like we will soon have more rabbits!
+  time: "Thu, 15 Jun 2023 09:22:10 UTC"
 record: -1

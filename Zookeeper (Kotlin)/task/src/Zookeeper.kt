@@ -114,5 +114,10 @@ const val rabbit = """Switching on the camera in the rabbit habitat...
 It looks like we will soon have more rabbits!"""
 
 fun main() {
-    // write your code here
+    println(camel)
+    println(lion)
+    println(deer)
+    println(goose)
+    println(bat)
+    println(rabbit)
 }

@@ -8,6 +8,12 @@
       <module name="Zookeeper_(Kotlin).Topics-Boolean_and_logical_operations-Match_operations_and_definitions.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Boolean_and_logical_operations-Program_a_Boolean_function.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Boolean_and_logical_operations-Theory.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Characters-Compare_Latin_letters.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Characters-Comparing_numbers_and_characters.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Characters-Digits_or_not.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Characters-Operations_allowed.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Characters-Previous_character.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Characters-Theory.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Next_even_number.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Reversing_a_number.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main" target="11" />
@@ -16,13 +22,21 @@
       <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Time_format.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Underscore.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Unsigned_integers.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Introduction_to_MutableList-Equal_lists.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Introduction_to_MutableList-Initializing_a_list.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_integers.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Introduction_to_MutableList-Printing_the_last_element.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Introduction_to_MutableList-Theory.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Check_the_input.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Fix_the_input.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Read_a_Double.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Reading_data.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Theory.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Are_the_numbers_different.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Boys_in_the_sport_class.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Check_the_value.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Existing_operators.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Job_offer.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Theory.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Who_is_less_than_10.main" target="11" />
       <module name="Zookeeper_(Kotlin).util.main" target="11" />
