@@ -14,6 +14,11 @@
       <module name="Zookeeper_(Kotlin).Topics-Characters-Operations_allowed.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Characters-Previous_character.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Characters-Theory.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-If_expression-Find_the_output.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-If_expression-Find_the_output__1_.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-If_expression-Interval.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-If_expression-Leap_year.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-If_expression-Theory.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Next_even_number.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Reversing_a_number.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main" target="11" />
@@ -39,6 +44,22 @@
       <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Job_offer.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Theory.main" target="11" />
       <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Who_is_less_than_10.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Repeating_blocks-Kotlin_x5.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Repeating_blocks-Maximum_element_divisible_by_4.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Repeating_blocks-Print_a_string_exactly_ten_times.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Repeating_blocks-Repeat_by_value.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Repeating_blocks-Size_of_parts.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-Repeating_blocks-Theory.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-String_templates-Date_and_time_formatting.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-String_templates-String_and_its_Int.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-String_templates-Templates_for_expressions.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-String_templates-Theory.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-String_templates-What_are_string_templates.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-While_loops-Bank_interest_calculation.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-While_loops-Choose_the_correct_ones.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-While_loops-Collatz_conjecture.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-While_loops-The_sum_of_elements.main" target="11" />
+      <module name="Zookeeper_(Kotlin).Topics-While_loops-Theory.main" target="11" />
       <module name="Zookeeper_(Kotlin).util.main" target="11" />
       <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-classes-kotlin.main" target="11" />
       <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-reports-tests.main" target="11" />

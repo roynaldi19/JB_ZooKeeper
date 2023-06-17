@@ -113,8 +113,27 @@ const val rabbit = """Switching on the camera in the rabbit habitat...
 (" ~----( ~   Y.  )
 It looks like we will soon have more rabbits!"""
 
-val animals = arrayOf(camel, lion, deer, goose, bat, rabbit)
-
 fun main() {
-    // write yor code here
+    val habitat = mutableListOf(camel, lion, deer, goose, bat, rabbit)
+    while (true) {
+        print("Please enter the number of the habitat you would like to view:")
+        val input = readlnOrNull()
+        if (input.equals("exit", ignoreCase = true)) {
+            break
+        }
+        val inputNumber = input?.toIntOrNull()
+        if (inputNumber != null && inputNumber in 0..habitat.size) {
+            val animal = habitat[inputNumber]
+            println("The animal in habitat $inputNumber is: $animal")
+            println("---")
+            println("You've reached the end of the program. To check another habitat, please restart the watcher.")
+        } else{
+            println("Invalid habitat number!")
+        }
+        println("See you later!")
+
+
+    }
+
+
 }

@@ -1,0 +1,47 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4649#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 10. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    10
+    -1
+    -1
+    0
+    1
+    -1
+    -1
+    1
+    0
+    1
+    0
+
+    Correct output:
+    3 3 4
+
+    Your code output:
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+  time: "Fri, 16 Jun 2023 01:56:45 UTC"
+record: -1
+submission_language: kotlin
